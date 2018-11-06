@@ -1,5 +1,5 @@
 package co.edu.unisabana.informatica.software;
 
-public class ComponenteUsuario {
+public class IUsuario {
 
 }
